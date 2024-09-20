@@ -1,6 +1,15 @@
-- 👋 Hi, I’m André
+Hi, I’m André 👋
+🖥️ FullStack Web Developer
 - 🌱 I’m currently learning to be a better person every day
 - 💞️ I’m looking to collaborate on open source projects, private company projects, personal projects, etc.
+  
+🚀TECHNICAL SKILLS:
+- Frontend: HTML, CSS, Javascript, React.js, Sass, Styled-components;
+- Backend: Node.js, Express.js, MongoDB.
+
+
+
+
 
 
 <!---
