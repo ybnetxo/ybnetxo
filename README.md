@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTNvc2dkOTE4eHF6bnhzOHFueTM5OXVseDhoMnZpMGZkZGJjbmNvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7gdwW1UOWyRlVYpwt/giphy.gif"  />
+<h3 align="left">Technologies:</h3>
 
 ###
 
@@ -39,6 +39,10 @@
 
 ###
 
+<h3 align="left">Social Medias:</h3>
+
+###
+
 <div align="left">
   <a href="https://www.instagram.com/ybnetxo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
@@ -53,8 +57,16 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/ybnetxo/ybnetxo/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img align="left" height="60" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTNvc2dkOTE4eHF6bnhzOHFueTM5OXVseDhoMnZpMGZkZGJjbmNvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7gdwW1UOWyRlVYpwt/giphy.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ybnetxo.ybnetxo&"  />
+</div>
 
 ###
