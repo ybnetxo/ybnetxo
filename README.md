@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-## <p align="center">  Hi, Techs! Great to see you here. 💜 
+## <p align="center">  Hi, Techs! Great to see you here.
 
 <p align="rigth"> 
-I’m currently transitioning my career to become a Java developer. With over 6 years of experience in recruitment and selection, particularly in the tech industry, I've gained a unique perspective on connecting talent with strategic opportunities. Now, I’m diving into new technologies to broaden my technical skills and contribute even more effectively to innovation within companies.
+I am always diving into new technologies to expand my technical skills and contribute even more effectively to innovation within companies.
 </p>
 
 
@@ -11,7 +11,7 @@ I’m currently transitioning my career to become a Java developer. With over 6 
 [![My Skills](https://skillicons.dev/icons?i=java,react,javascript)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Tools and Technologies:
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,mysql,git,github)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,javascript,html,css,tailwind,react,next,idea,mysql,git,github)](https://skillicons.dev)<br><br>
 
 ## 👥 Projects and Initiatives:
 - I developed strategic resume templates optimized for ATS systems, which have already helped many tech professionals stand out in hiring processes and secure jobs..
