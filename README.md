@@ -15,7 +15,7 @@ I am always diving into new technologies to expand my technical skills and contr
 
 ## Don't hesitate to contact me. ⤵️⤵️
 
-[![Linkedin](https://img.shields.io/badge/-Franciele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francielekuchler/)](https://www.linkedin.com/in/andr%C3%A9-dos-santos-7488702b7/)
+[![Linkedin](https://img.shields.io/badge/-André-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9-dos-santos/)](https://www.linkedin.com/in/andr%C3%A9-dos-santos-7488702b7/)
 
 
 
