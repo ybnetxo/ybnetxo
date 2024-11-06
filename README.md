@@ -7,18 +7,16 @@ I am always diving into new technologies to expand my technical skills and contr
 </p>
 
 
+
+
 ## 🛠️ Tools and Technologies:
 [![My Skills](https://skillicons.dev/icons?i=vscode,javascript,typescript,react,next,html,css,tailwind,sass,bootstrap,figma,git,github)](https://skillicons.dev)<br><br>
 
-## 👥 Projects and Initiatives:
-- I developed strategic resume templates optimized for ATS systems, which have already helped many tech professionals stand out in hiring processes and secure jobs..
-
-- I founded a community with over 2,000 members focused on helping tech professionals grow. We offer free and paid mentorships on resume creation and optimization, LinkedIn profile building, networking strategies, interview preparation, and career planning, helping our members achieve their goals.
 
 ## Don't hesitate to contact me. ⤵️⤵️
 
-[![Linkedin](https://img.shields.io/badge/-Franciele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francielekuchler/)](https://www.linkedin.com/in/francielekuchler/)
-[![Gmail Badge](https://img.shields.io/badge/-franciele@madil.io-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:franciele@madil.io)](mailto:franciele@madil.io)
+[![Linkedin](https://img.shields.io/badge/-Franciele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francielekuchler/)](https://www.linkedin.com/in/andr%C3%A9-dos-santos-7488702b7/)
+
 
 
 <div align="center">
