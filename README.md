@@ -11,9 +11,7 @@ I am always diving into new technologies to expand my technical skills and contr
 
 
 
-
-
-## 🛠️ Tools and Technologies:
+# 🛠️ Tools and Technologies:
 [![My Skills](https://skillicons.dev/icons?i=vscode,javascript,typescript,react,next,html,css,tailwind,sass,bootstrap,figma,git,github)](https://skillicons.dev)<br><br>
 
 
