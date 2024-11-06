@@ -2,6 +2,8 @@
 
 ## <p align="center">  Hi, Techs! Great to see you here.
 
+
+
 <p align="rigth"> 
 I am always diving into new technologies to expand my technical skills and contribute even more effectively to innovation within companies.
 </p>
