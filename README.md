@@ -7,11 +7,8 @@ I am always diving into new technologies to expand my technical skills and contr
 </p>
 
 
-## 🚀 What I'm learning: 
-[![My Skills](https://skillicons.dev/icons?i=java,react,javascript)](https://skillicons.dev)<br><br>
-
 ## 🛠️ Tools and Technologies:
-[![My Skills](https://skillicons.dev/icons?i=vscode,javascript,html,css,tailwind,react,next,idea,mysql,git,github)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,javascript,typescript,react,next,html,css,tailwind,sass,bootstrap,figma,git,github)](https://skillicons.dev)<br><br>
 
 ## 👥 Projects and Initiatives:
 - I developed strategic resume templates optimized for ATS systems, which have already helped many tech professionals stand out in hiring processes and secure jobs..
